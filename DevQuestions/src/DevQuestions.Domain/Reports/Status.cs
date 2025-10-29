@@ -1,4 +1,4 @@
-namespace DevQuestions.Domain.Report;
+namespace DevQuestions.Domain.Reports;
 
 public enum Status
 {
